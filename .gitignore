@@ -1,0 +1,15 @@
+# Portfolio build artifacts & dependencies
+portfolio/node_modules/
+portfolio/dist/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
