@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'portfolio/**'
+      - '.github/workflows/deploy-portfolio.yml'
   workflow_dispatch:
 
 permissions:
@@ -50,6 +51,9 @@ jobs:
     name: Deploy to GitHub Pages
     needs: build
     runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
