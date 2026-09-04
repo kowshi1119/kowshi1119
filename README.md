@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,30:1a1a4e,60:302b63,100:24243e&height=220&section=header&text=KOWSHIKAN%20MATHIVARNAN&fontSize=48&fontColor=ffffff&animation=blinking&fontAlignY=45&desc=Software%20Developer%20%7C%20AI%20Engineer%20%7C%20Mobile%20%7C%20Web%20%7C%20Backend%20%7C%20DevOps&descAlignY=68&descSize=16&descColor=c4b5fd&stroke=7c3aed&strokeWidth=2" width="100%"/>
 
 <!-- Typing SVG Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=🚀+CS+Undergraduate+%40+SLIIT+Northern+Uni;💼+Software+Eng.+Intern+%40+HABB+(Pvt)+Ltd;🤖+Building+AI+that+solves+real-world+problems;🏆+Q4US+Code+Art+Challenge+WINNER+(LKR+100K);🎖️+SLIIT+Codefest+ALGOTHAN+Merit+Award;🌐+Google+Gemini+Live+Agent+Hackathon+Participant" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=🚀+CS+Undergraduate+%40+University+of+Bedfordshire;💼+Trainee+Software+Engineer+%40+10QBIT;🤖+Building+AI+that+solves+real-world+problems;🏆+Q4US+Code+Art+Challenge+WINNER+(LKR+100K);🎖️+SLIIT+Codefest+ALGOTHAN+Merit+Award;🌐+Google+Gemini+Live+Agent+Hackathon+Participant" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -45,10 +45,14 @@ object Kowshigan {
 
     val name       = "Kowshikan Mathivarnan"
     val location   = "Jaffna, Sri Lanka 🇱🇰"
-    val education  = "HND IN  IT "
-    val education  = "  Computer Science(bsc)"
-    val university = "SLIIT city Uni  (2024–2026)"
-    val role       = "Software Eng. Intern @ HABB Ltd"
+    val education1 = "BSc (Hons) Computer Science"
+    val university1 = "University of Bedfordshire (2026–2027)"
+    val education2 = "Higher National Diploma in Information Technology"
+    val university2 = "SLIIT City Uni (2024–2026)"
+    val currentRole = "Trainee Software Engineer @ 10QBIT"
+    val status      = "Aug 2026 – Present"
+    val experience1 = "Freelance Developer @ Freelance (Feb 2026 – Aug 2026)"
+    val experience2 = "Software Engineer Intern @ HABB (Oct 2025 – Mar 2026)"
 
     val languages  = listOf(
         "Tamil  — Native",
@@ -83,8 +87,8 @@ object Kowshigan {
 
 <br/>
 
-<img src="https://img.shields.io/badge/💼_HABB_(Pvt)_Ltd-Intern-7c3aed?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🎓_SLIIT_Northern_Uni-CS_Undergrad-2563eb?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/💼_10QBIT-Trainee_Software_Engineer-7c3aed?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🎓_University_of_Bedfordshire-CS_Undergrad-2563eb?style=flat-square&labelColor=0d1117"/>
 
 </td>
 </tr>
@@ -98,13 +102,14 @@ object Kowshigan {
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║   💼  Software Engineering Intern                   Nov 2025 – Present      ║
-║       HABB (Pvt) Ltd  ·  habb.lk  ·  habb.uk  ·  habb.ca  ·  habb.ch      ║
+║   💼  Trainee Software Engineer                       Aug 2026 – Present    ║
+║       10QBIT                                                            ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║   ✅  Backend feature development in an Agile engineering team              ║
-║   ✅  Diagnosed & resolved production defects, improving system reliability ║
-║   ✅  Worked across relational & NoSQL databases in live production systems ║
-║   ✅  Code reviews, testing cycles, debugging & performance optimization    ║
+║   💻  Freelance Developer                             Feb 2026 – Aug 2026    ║
+║       Freelance                                                         ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║   💼  Software Engineer Intern                         Oct 2025 – Mar 2026  ║
+║       HABB                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -255,8 +260,11 @@ jobs:
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
-│  🎓  BSc (Hons) Information Technology – Computer Science                │
-│      SLIIT Northern Uni  ·  Jaffna, Sri Lanka  ·  2024 – 2027           │
+│  🎓  BSc (Hons) Computer Science                                       │
+│      University of Bedfordshire  ·  2026 – 2027                       │
+├──────────────────────────────────────────────────────────────────────────┤
+│  🎓  Higher National Diploma in Information Technology                  │
+│      SLIIT City Uni  ·  2024 – 2026                                    │
 ├──────────────────────────────────────────────────────────────────────────┤
 │  🏫  J/Kokuvil Hindu College  ·  2007 – 2021                            │
 │      GCE O/L — Pass   ·   A/L Engineering Technology — Passed           │
