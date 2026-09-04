@@ -43,10 +43,11 @@
 ```kotlin
 object Kowshigan {
 
-    val name       = "Kowshigan Mathivarnan"
+    val name       = "Kowshikan Mathivarnan"
     val location   = "Jaffna, Sri Lanka 🇱🇰"
-    val education  = "BSc (Hons) IT – Computer Science"
-    val university = "SLIIT Northern Uni  (2024–2027)"
+    val education  = "HND IN  IT "
+    val education  = "  Computer Science(bsc)"
+    val university = "SLIIT city Uni  (2024–2026)"
     val role       = "Software Eng. Intern @ HABB Ltd"
 
     val languages  = listOf(
