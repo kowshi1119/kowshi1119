@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 3D Cylinder Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,30:1a1a4e,60:302b63,100:24243e&height=220&section=header&text=KOWSHIGAN%20MATHIVARNAN&fontSize=48&fontColor=ffffff&animation=blinking&fontAlignY=45&desc=Software%20Developer%20%7C%20AI%20Engineer%20%7C%20Mobile%20%7C%20Web%20%7C%20Backend%20%7C%20DevOps&descAlignY=68&descSize=16&descColor=c4b5fd&stroke=7c3aed&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,30:1a1a4e,60:302b63,100:24243e&height=220&section=header&text=KOWSHIKAN%20MATHIVARNAN&fontSize=48&fontColor=ffffff&animation=blinking&fontAlignY=45&desc=Software%20Developer%20%7C%20AI%20Engineer%20%7C%20Mobile%20%7C%20Web%20%7C%20Backend%20%7C%20DevOps&descAlignY=68&descSize=16&descColor=c4b5fd&stroke=7c3aed&strokeWidth=2" width="100%"/>
 
 <!-- Typing SVG Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=🚀+CS+Undergraduate+%40+SLIIT+Northern+Uni;💼+Software+Eng.+Intern+%40+HABB+(Pvt)+Ltd;🤖+Building+AI+that+solves+real-world+problems;🏆+Q4US+Code+Art+Challenge+WINNER+(LKR+100K);🎖️+SLIIT+Codefest+ALGOTHAN+Merit+Award;🌐+Google+Gemini+Live+Agent+Hackathon+Participant" alt="Typing SVG" />
