@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="490" viewBox="0 0 1200 490" role="img" aria-labelledby="title desc">
-<title id="title">Kowshikan Mathivarnan — Software engineering</title><desc id="desc">Layered 3D architecture with gently floating geometry. Applied AI, Android and web development.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="605" viewBox="0 0 540 605" role="img" aria-labelledby="title desc">
+<title id="title">Kowshikan Mathivarnan — Software engineering</title><desc id="desc">Applied AI, Android and web. A gently floating 3D sculpture.</desc>
 <defs>
 <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#112c38"/></linearGradient>
 <linearGradient id="top" x2="1" y2="1"><stop stop-color="#83f4d2"/><stop offset="1" stop-color="#258c85"/></linearGradient>
@@ -17,8 +17,8 @@ text{font-family:Segoe UI, Inter, Arial, sans-serif}
 @keyframes trace{to{stroke-dashoffset:-464}}
 @media(prefers-reduced-motion:reduce){.float,.float-slow,.pulse,.trace{animation:none!important}}
 </style>
-<rect x=".5" y=".5" width="1199" height="489" rx="24" fill="url(#bg)" stroke="#263c4e"/>
-<text x="52" y="55" font-size="20" fill="#78e4c8" font-weight="600" letter-spacing="4">K / M</text><text x="148" y="55" font-size="14" fill="#a7b8cb" font-weight="500" letter-spacing="3">SOFTWARE ENGINEERING</text><text x="52" y="151" font-size="70" fill="#f1f5f9" font-weight="650" letter-spacing="-3">Kowshikan</text><text x="52" y="232" font-size="70" fill="#f1f5f9" font-weight="650" letter-spacing="-3">Mathivarnan.</text><text x="55" y="287" font-size="27" fill="#dbe5ed" font-weight="400" >Thoughtful engineering.</text><text x="55" y="324" font-size="27" fill="#7ee6c7" font-weight="400" >Practical software.</text><g transform="translate(937 224) scale(0.92)">
+<rect x=".5" y=".5" width="539" height="604" rx="24" fill="url(#bg)" stroke="#263c4e"/>
+<text x="32" y="45" font-size="18" fill="#78e4c8" font-weight="600" letter-spacing="4">K / M</text><text x="32" y="107" font-size="48" fill="#f1f5f9" font-weight="650" letter-spacing="-2">Kowshikan</text><text x="32" y="163" font-size="48" fill="#f1f5f9" font-weight="650" letter-spacing="-2">Mathivarnan.</text><text x="33" y="205" font-size="18" fill="#bccbd7" font-weight="400" >Thoughtful engineering. Practical software.</text><g transform="translate(270 354) scale(0.76)">
 <circle r="235" fill="url(#glow)"/><ellipse cy="123" rx="187" ry="42" fill="#07131f" opacity=".7"/>
 <g fill="none" stroke="#36525f"><ellipse cy="60" rx="219" ry="92"/><ellipse cy="60" rx="245" ry="109" stroke-dasharray="2 12" opacity=".6"/></g>
 <g transform="translate(0 100)"><path d="M-155 0L0 66L155 0V20L0 86L-155 20Z" fill="#102936" stroke="#38606b"/>
@@ -43,4 +43,4 @@ text{font-family:Segoe UI, Inter, Arial, sans-serif}
 <path d="M0 0L15 -7.5V7.5L0 15Z" fill="#194751"/>
 <path d="M0 -15L15 -7.5L0 0L-15 -7.5Z" fill="url(#top)"/>
 <path d="M0 0V15M-15 -7.5L0 0L15 -7.5" fill="none" stroke="#97f8dc" opacity=".65"/></g></g>
-</g><path d="M52 399H1148" stroke="#2c4352"/><text x="54" y="446" font-size="17" fill="#c2d1dd" font-weight="500" letter-spacing="2">APPLIED AI  /  ANDROID  /  WEB</text><text x="1148" y="446" font-size="14" fill="#d7bd8d" font-weight="500" text-anchor="end" letter-spacing="2">JAFFNA, SRI LANKA</text></svg>
+</g><path d="M32 502H508" stroke="#2c4352"/><text x="32" y="540" font-size="17" fill="#7ee6c7" font-weight="500" >APPLIED AI  /  ANDROID  /  WEB</text><text x="32" y="572" font-size="16" fill="#d7bd8d" font-weight="400" >Jaffna, Sri Lanka</text></svg>

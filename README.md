@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/profile-hero.svg" width="100%" alt="Kowshikan Mathivarnan — Software engineering. AI, Android and web. Based in Jaffna, Sri Lanka." />
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/profile-hero-mobile.svg" />
+    <img src="assets/profile-hero.svg" width="100%" alt="Kowshikan Mathivarnan — Software engineering. Applied AI, Android and web. Based in Jaffna, Sri Lanka." />
+  </picture>
 </p>
 
 <p align="center">
@@ -17,6 +20,8 @@ I'm **Kowshikan Mathivarnan**, a **Trainee Software Engineer at 10QBIT** and Com
 Based in **Jaffna, Sri Lanka** · Tamil (native) · English (professional)
 
 **Career interests:** Software engineering, applied AI and Android development. I enjoy turning practical problems into working applications and would welcome a conversation with teams building useful products.
+
+**Explore:** [Selected work](#selected-work) · [Experience](#experience) · [Technical toolkit](#technical-toolkit) · [Contribution studio](#contribution-studio)
 
 ## Recognition
 
@@ -67,6 +72,19 @@ Three projects that show how I approach automation, AI integration and mobile de
 [Explore the Android project →](https://github.com/kowshi1119/CSESTOCKINSIGHT)
 
 **More work:** [SmartNotes — offline-first Android notes](https://github.com/kowshi1119/SmartNotes-Android-Notes-App) · [AI Hospital Receptionist](https://github.com/kowshi1119/AI-Hospital-Receptionist) · [Portfolio website source](https://github.com/kowshi1119/kowshigan-portfolio)
+
+## Contribution studio
+
+A small visual signature, powered by my actual GitHub contribution history.
+
+<p align="center">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/kowshi1119/kowshi1119/output/contribution-snake.svg" />
+    <img src="assets/contribution-snake.svg" width="100%" alt="Animated gold snake moving across my GitHub contribution grid, presented on a raised isometric surface." />
+  </picture>
+</p>
+
+[View contribution history →](https://github.com/kowshi1119?tab=overview) · [Animation workflow](https://github.com/kowshi1119/kowshi1119/actions/workflows/snake.yml)
 
 ## Experience
 
