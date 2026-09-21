@@ -1,5 +1,7 @@
 <p align="center">
   <picture>
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/profile-hero-mobile-static.svg" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-hero-static.svg" />
     <source media="(max-width: 600px)" srcset="assets/profile-hero-mobile.svg" />
     <img src="assets/profile-hero.svg" width="100%" alt="Kowshikan Mathivarnan — Software engineering. Applied AI, Android and web. Based in Jaffna, Sri Lanka." />
   </picture>
@@ -23,6 +25,12 @@ Based in **Jaffna, Sri Lanka** · Tamil (native) · English (professional)
 
 **Explore:** [Selected work](#selected-work) · [Experience](#experience) · [Technical toolkit](#technical-toolkit) · [Contribution studio](#contribution-studio)
 
+## At a glance
+
+- **For hiring teams:** Trainee Software Engineer at 10QBIT, with internship and freelance experience, competition recognition and a Computer Science degree in progress.
+- **For technical leaders:** Explore browser automation, multimodal AI integration and Android data architecture, with source code and project limitations documented.
+- **For founders & business leaders:** My projects explore practical workflows in software quality, healthcare interaction and financial data access.
+
 ## Recognition
 
 | Award | Achievement |
@@ -37,7 +45,7 @@ Three projects that show how I approach automation, AI integration and mobile de
 
 ### 01 / AutoQA
 
-<a href="https://github.com/kowshi1119/multi-agent-autoqa"><img src="assets/project-autoqa.svg" width="100%" alt="AutoQA concept: explore, validate and report — browser automation with reproducible evidence." /></a>
+<a href="https://github.com/kowshi1119/multi-agent-autoqa"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/project-autoqa-static.svg" /><img src="assets/project-autoqa.svg" width="100%" alt="AutoQA concept: explore, validate and report — browser automation with reproducible evidence." /></picture></a>
 
 **Making software defects easier to reproduce and investigate.** An autonomous QA prototype that explores web applications in Chromium, checks suspected failures with code-based rules, and replays findings in independent browser contexts before reporting them.
 
@@ -49,7 +57,7 @@ Three projects that show how I approach automation, AI integration and mobile de
 
 ### 02 / MedVision
 
-<a href="https://github.com/kowshi1119/medvision-live-agent-Gemini_LiveAgent_Hackathon-"><img src="assets/project-medvision.svg" width="100%" alt="MedVision concept: voice and camera inputs connected to a real-time multimodal agent." /></a>
+<a href="https://github.com/kowshi1119/medvision-live-agent-Gemini_LiveAgent_Hackathon-"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/project-medvision-static.svg" /><img src="assets/project-medvision.svg" width="100%" alt="MedVision concept: voice and camera inputs connected to a real-time multimodal agent." /></picture></a>
 
 **Exploring real-time voice and vision in a single AI interface.** A Gemini Live Agent Challenge project combining bidirectional audio, live camera input and structured triage-card output in an emergency-response concept.
 
@@ -61,7 +69,7 @@ Three projects that show how I approach automation, AI integration and mobile de
 
 ### 03 / CSE Stock Insight
 
-<a href="https://github.com/kowshi1119/CSESTOCKINSIGHT"><img src="assets/project-cse.svg" width="100%" alt="CSE Stock Insight concept: an Android interface for company data, charts and a personal watchlist." /></a>
+<a href="https://github.com/kowshi1119/CSESTOCKINSIGHT"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/project-cse-static.svg" /><img src="assets/project-cse.svg" width="100%" alt="CSE Stock Insight concept: an Android interface for company data, charts and a personal watchlist." /></picture></a>
 
 **Bringing company data and financial charts into an Android experience.** An educational application for exploring Colombo Stock Exchange fundamentals, price history and watchlists, with local persistence and background data operations.
 
@@ -79,6 +87,7 @@ A small visual signature, powered by my actual GitHub contribution history.
 
 <p align="center">
   <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/kowshi1119/kowshi1119/output/contribution-snake-static.svg" />
     <source srcset="https://raw.githubusercontent.com/kowshi1119/kowshi1119/output/contribution-snake.svg" />
     <img src="assets/contribution-snake.svg" width="100%" alt="Animated gold snake moving across my GitHub contribution grid, presented on a raised isometric surface." />
   </picture>
@@ -95,6 +104,13 @@ A small visual signature, powered by my actual GitHub contribution history.
 | **Software Engineer Intern** | HABB | Oct 2025 – Mar 2026 |
 
 ## Technical toolkit
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-stack-static.svg" />
+  <img src="assets/tech-stack.svg" width="100%" alt="Floating 3D-style technology tiles: Python, TypeScript, JavaScript, React, HTML5, CSS3, Java, Kotlin, Android, Firebase, Node.js, FastAPI, Docker, Git, Google Cloud, MySQL, MongoDB and SQLite." />
+</picture>
+
+Technologies used across my projects and learning. The linked repositories show where and how I apply them.
 
 | Area | Technologies & practices |
 | :--- | :--- |
@@ -123,7 +139,7 @@ GCE O/L — Pass · A/L Engineering Technology — Passed
 
 ## Let's build something useful.
 
-If you're recruiting for a software engineering team, I'd be happy to discuss my projects, experience and career interests.
+Recruiting for an engineering team, reviewing technical fit, or exploring a product idea? I'd be happy to walk you through my projects, implementation decisions and career interests.
 
 **[Connect on LinkedIn ↗](https://www.linkedin.com/in/kowshikan-mathivarnan-b3a1ab314)** · **[Email me ↗](mailto:kowshigankowshi39@gmail.com)**<br/>
 kowshigankowshi39@gmail.com

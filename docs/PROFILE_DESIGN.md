@@ -25,3 +25,26 @@ The source snapshot used for the initial rendering came from the existing output
 ## GitHub rendering limits
 
 Motion lives inside SVG images. README links remain standard accessible GitHub links; there is no page-level JavaScript, hover tilt, WebGL or scroll animation. Avoid adding unsupported inline styles or scripts to README HTML. All project illustrations are explicitly labeled as concepts, not screenshots.
+
+## Technology board and reduced motion
+
+`node scripts/build-tech-stack.mjs` rebuilds the animated technology board from
+18 locally stored Devicon logos. Source attribution and the MIT license are in
+`assets/README.md` and `assets/icons/LICENSE`. No network request or package
+installation is needed to regenerate the board.
+
+After regenerating artwork, run `python3 scripts/build_static_assets.py` to
+refresh explicit static alternatives. The README selects them using picture
+sources for reduced-motion preferences, with a separate mobile hero. This also
+works in browsers that do not propagate reduced-motion preferences into SVG
+images. SVG styles retain their own reduced-motion rules as a second layer.
+
+The snake workflow also runs:
+
+```sh
+python3 scripts/build_static_assets.py dist/contribution-snake.svg
+```
+
+It publishes `output/contribution-snake-static.svg` with the animated version,
+so both reflect the same contribution snapshot. The static snake hides the
+moving snake and progress bar while retaining contribution cells.

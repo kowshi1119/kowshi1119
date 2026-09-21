@@ -9,6 +9,7 @@ on:
     paths:
       - ".github/workflows/snake.yml"
       - "scripts/style_snake.py"
+      - "scripts/build_static_assets.py"
 
 permissions:
   contents: write
@@ -32,7 +33,9 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
       - name: Add the isometric presentation
-        run: python3 scripts/style_snake.py dist/github-snake.svg dist/contribution-snake.svg
+        run: |
+          python3 scripts/style_snake.py dist/github-snake.svg dist/contribution-snake.svg
+          python3 scripts/build_static_assets.py dist/contribution-snake.svg
       - name: Publish generated assets
         shell: bash
         run: |
@@ -44,7 +47,7 @@ jobs:
           cd "$RUNNER_TEMP/profile-output"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add github-snake.svg github-snake-dark.svg contribution-snake.svg
+          git add github-snake.svg github-snake-dark.svg contribution-snake.svg contribution-snake-static.svg
           if git diff --cached --quiet; then
             echo "Contribution artwork is already current."
           else

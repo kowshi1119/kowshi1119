@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+<title id="title">AutoQA — project illustration</title><desc id="desc">Explore. Validate. Reproduce. Concept artwork, not an application screenshot.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#112c38"/></linearGradient>
+<linearGradient id="top" x2="1" y2="1"><stop stop-color="#83f4d2"/><stop offset="1" stop-color="#258c85"/></linearGradient>
+<linearGradient id="glass" x2="1" y2="1"><stop stop-color="#203f51"/><stop offset="1" stop-color="#122332"/></linearGradient>
+<linearGradient id="gold" x2="1" y2="1"><stop stop-color="#f3d69c"/><stop offset="1" stop-color="#a77b3d"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#4ccbaa" stop-opacity=".15"/><stop offset="1" stop-color="#4ccbaa" stop-opacity="0"/></radialGradient>
+<filter id="shadow" x="-50%" y="-50%" width="200%" height="220%"><feDropShadow dx="0" dy="18" stdDeviation="15" flood-color="#000814" flood-opacity=".65"/></filter>
+</defs>
+<style>
+text{font-family:Segoe UI, Inter, Arial, sans-serif}
+.float{animation:float 7s ease-in-out infinite}.float-slow{animation:float 9s ease-in-out -3s infinite}
+.pulse{animation:pulse 5s ease-in-out infinite}.trace{stroke-dasharray:12 220;animation:trace 10s linear infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
+@keyframes trace{to{stroke-dashoffset:-464}}
+@media(prefers-reduced-motion:reduce){.float,.float-slow,.pulse,.trace{animation:none!important}}
+</style>
+<rect x=".5" y=".5" width="1199" height="309" rx="24" fill="url(#bg)" stroke="#263c4e"/>
+<text x="40" y="49" font-size="15" fill="#7ee6c7" font-weight="600" letter-spacing="2">01</text><text x="80" y="49" font-size="13" fill="#a7b8cb" font-weight="500" letter-spacing="2">AGENT SYSTEMS / QUALITY ENGINEERING</text><text x="40" y="135" font-size="49" fill="#f1f5f9" font-weight="650" letter-spacing="-1.5">AutoQA</text><text x="43" y="181" font-size="23" fill="#b7c8d6" font-weight="400" >Explore. Validate. Reproduce.</text><path d="M43 225H94" stroke="#7ee6c7" stroke-width="2"/><text x="43" y="266" font-size="14" fill="#7ee6c7" font-weight="500" letter-spacing="2">VIEW PROJECT  →</text><ellipse cx="920" cy="266" rx="180" ry="24" fill="#07121d"/><g transform="translate(920 214)"><path d="M-164 0L0 55L164 0V15L0 70L-164 15Z" fill="#102936" stroke="#38606b"/>
+<path d="M0 55V70L164 15V0Z" fill="#163d48"/>
+<path d="M-164 0L0 -55L164 0L0 55Z" fill="url(#glass)" stroke="#38606b"/>
+<path d="M-152 0L0 49L152 0" fill="none" stroke="#96f6dd" opacity=".3"/></g><g class="float-slow"><g transform="translate(803 156)"><path d="M0 -38L38 -19.0V19.0L0 38L-38 19.0V-19.0Z" fill="#166267" stroke="#78e4c8"/>
+<path d="M0 0L38 -19.0V19.0L0 38Z" fill="#194751"/>
+<path d="M0 -38L38 -19.0L0 0L-38 -19.0Z" fill="url(#top)"/>
+<path d="M0 0V38M-38 -19.0L0 0L38 -19.0" fill="none" stroke="#97f8dc" opacity=".65"/></g></g><g class="float"><g transform="translate(920 110)"><path d="M0 -38L38 -19.0V19.0L0 38L-38 19.0V-19.0Z" fill="#166267" stroke="#78e4c8"/>
+<path d="M0 0L38 -19.0V19.0L0 38Z" fill="#194751"/>
+<path d="M0 -38L38 -19.0L0 0L-38 -19.0Z" fill="url(#top)"/>
+<path d="M0 0V38M-38 -19.0L0 0L38 -19.0" fill="none" stroke="#97f8dc" opacity=".65"/></g></g><g class="float-slow"><g transform="translate(1037 156)"><path d="M0 -38L38 -19.0V19.0L0 38L-38 19.0V-19.0Z" fill="#166267" stroke="#78e4c8"/>
+<path d="M0 0L38 -19.0V19.0L0 38Z" fill="#194751"/>
+<path d="M0 -38L38 -19.0L0 0L-38 -19.0Z" fill="url(#top)"/>
+<path d="M0 0V38M-38 -19.0L0 0L38 -19.0" fill="none" stroke="#97f8dc" opacity=".65"/></g></g><path d="M803 195L920 150L1037 195" fill="none" stroke="#79ecca" stroke-width="2" class="trace"/><text x="920" y="278" font-size="11" fill="#9bbdc9" font-weight="500" text-anchor="middle" letter-spacing="2">EXPLORE  /  VERIFY  /  REPORT</text><style>*{animation:none!important;transition:none!important}.s,.u{display:none!important}</style></svg>

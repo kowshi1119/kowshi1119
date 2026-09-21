@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="490" viewBox="0 0 1200 490" role="img" aria-labelledby="title desc">
+<title id="title">Kowshikan Mathivarnan — Software engineering</title><desc id="desc">Layered 3D architecture with gently floating geometry. Applied AI, Android and web development.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#112c38"/></linearGradient>
+<linearGradient id="top" x2="1" y2="1"><stop stop-color="#83f4d2"/><stop offset="1" stop-color="#258c85"/></linearGradient>
+<linearGradient id="glass" x2="1" y2="1"><stop stop-color="#203f51"/><stop offset="1" stop-color="#122332"/></linearGradient>
+<linearGradient id="gold" x2="1" y2="1"><stop stop-color="#f3d69c"/><stop offset="1" stop-color="#a77b3d"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#4ccbaa" stop-opacity=".15"/><stop offset="1" stop-color="#4ccbaa" stop-opacity="0"/></radialGradient>
+<filter id="shadow" x="-50%" y="-50%" width="200%" height="220%"><feDropShadow dx="0" dy="18" stdDeviation="15" flood-color="#000814" flood-opacity=".65"/></filter>
+</defs>
+<style>
+text{font-family:Segoe UI, Inter, Arial, sans-serif}
+.float{animation:float 7s ease-in-out infinite}.float-slow{animation:float 9s ease-in-out -3s infinite}
+.pulse{animation:pulse 5s ease-in-out infinite}.trace{stroke-dasharray:12 220;animation:trace 10s linear infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
+@keyframes trace{to{stroke-dashoffset:-464}}
+@media(prefers-reduced-motion:reduce){.float,.float-slow,.pulse,.trace{animation:none!important}}
+</style>
+<rect x=".5" y=".5" width="1199" height="489" rx="24" fill="url(#bg)" stroke="#263c4e"/>
+<text x="52" y="55" font-size="20" fill="#78e4c8" font-weight="600" letter-spacing="4">K / M</text><text x="148" y="55" font-size="14" fill="#a7b8cb" font-weight="500" letter-spacing="3">SOFTWARE ENGINEERING</text><text x="52" y="151" font-size="70" fill="#f1f5f9" font-weight="650" letter-spacing="-3">Kowshikan</text><text x="52" y="232" font-size="70" fill="#f1f5f9" font-weight="650" letter-spacing="-3">Mathivarnan.</text><text x="55" y="287" font-size="27" fill="#dbe5ed" font-weight="400" >Thoughtful engineering.</text><text x="55" y="324" font-size="27" fill="#7ee6c7" font-weight="400" >Practical software.</text><g transform="translate(937 224) scale(0.92)">
+<circle r="235" fill="url(#glow)"/><ellipse cy="123" rx="187" ry="42" fill="#07131f" opacity=".7"/>
+<g fill="none" stroke="#36525f"><ellipse cy="60" rx="219" ry="92"/><ellipse cy="60" rx="245" ry="109" stroke-dasharray="2 12" opacity=".6"/></g>
+<g transform="translate(0 100)"><path d="M-155 0L0 66L155 0V20L0 86L-155 20Z" fill="#102936" stroke="#38606b"/>
+<path d="M0 66V86L155 20V0Z" fill="#163d48"/>
+<path d="M-155 0L0 -66L155 0L0 66Z" fill="url(#glass)" stroke="#38606b"/>
+<path d="M-143 0L0 60L143 0" fill="none" stroke="#96f6dd" opacity=".3"/></g>
+<g class="float-slow"><g transform="translate(0 48)"><path d="M-145 0L0 62L145 0V16L0 78L-145 16Z" fill="#102936" stroke="#38606b"/>
+<path d="M0 62V78L145 16V0Z" fill="#163d48"/>
+<path d="M-145 0L0 -62L145 0L0 62Z" fill="url(#glass)" stroke="#38606b"/>
+<path d="M-133 0L0 56L133 0" fill="none" stroke="#96f6dd" opacity=".3"/></g><g transform="translate(0 0)"><path d="M-135 0L0 58L135 0V14L0 72L-135 14Z" fill="#102936" stroke="#79d8c4"/>
+<path d="M0 58V72L135 14V0Z" fill="#163d48"/>
+<path d="M-135 0L0 -58L135 0L0 58Z" fill="url(#top)" stroke="#79d8c4"/>
+<path d="M-123 0L0 52L123 0" fill="none" stroke="#96f6dd" opacity=".3"/></g></g>
+<g class="float" filter="url(#shadow)"><g transform="translate(0 -92)"><path d="M0 -57L57 -28.5V28.5L0 57L-57 28.5V-28.5Z" fill="#166267" stroke="#78e4c8"/>
+<path d="M0 0L57 -28.5V28.5L0 57Z" fill="#194751"/>
+<path d="M0 -57L57 -28.5L0 0L-57 -28.5Z" fill="url(#top)"/>
+<path d="M0 0V57M-57 -28.5L0 0L57 -28.5" fill="none" stroke="#97f8dc" opacity=".65"/></g></g>
+<path d="M-202 35L-145 60L0 121L145 60L204 35" fill="none" stroke="#71e7c5" class="trace" stroke-width="2"/>
+<circle cx="-202" cy="35" r="5" fill="#e5c78d" class="pulse"/>
+<circle cx="204" cy="35" r="4" fill="#79ecca"/>
+<g class="float-slow"><g transform="translate(167 -92)"><path d="M0 -15L15 -7.5V7.5L0 15L-15 7.5V-7.5Z" fill="#166267" stroke="#78e4c8"/>
+<path d="M0 0L15 -7.5V7.5L0 15Z" fill="#194751"/>
+<path d="M0 -15L15 -7.5L0 0L-15 -7.5Z" fill="url(#top)"/>
+<path d="M0 0V15M-15 -7.5L0 0L15 -7.5" fill="none" stroke="#97f8dc" opacity=".65"/></g></g>
+</g><path d="M52 399H1148" stroke="#2c4352"/><text x="54" y="446" font-size="17" fill="#c2d1dd" font-weight="500" letter-spacing="2">APPLIED AI  /  ANDROID  /  WEB</text><text x="1148" y="446" font-size="14" fill="#d7bd8d" font-weight="500" text-anchor="end" letter-spacing="2">JAFFNA, SRI LANKA</text><style>*{animation:none!important;transition:none!important}.s,.u{display:none!important}</style></svg>
