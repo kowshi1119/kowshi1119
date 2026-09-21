@@ -1,5 +1,14 @@
 # Profile artwork maintenance
 
+## Current AI / QA hero
+
+The README hero now uses exported GIFs and PNG fallbacks from `assets/hero/`.
+See `assets/hero/README.md` for the editable source, timeline and export commands.
+Only image files are embedded in the profile. The source HTML and JavaScript are
+kept for local playback and deterministic rendering. The older SVG hero files
+remain available as alternatives; the instructions below maintain those SVGs,
+project artwork, the technology board and contribution snake.
+
 This is a GitHub profile README, not a hosted website. The visual system uses script-free SVG images: midnight navy, mint highlights, champagne accents, isometric geometry and slow animation. Career details and project limitations remain readable Markdown; artwork is decorative and never used as evidence of project results.
 
 ## Regenerate illustrations

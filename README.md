@@ -1,11 +1,17 @@
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/profile-hero-mobile-static.svg" />
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-hero-static.svg" />
-    <source media="(max-width: 600px)" srcset="assets/profile-hero-mobile.svg" />
-    <img src="assets/profile-hero.svg" width="100%" alt="Kowshikan Mathivarnan — Software engineering. Applied AI, Android and web. Based in Jaffna, Sri Lanka." />
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/hero/ai-qa-dev-flow-mobile.png" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero/ai-qa-dev-flow.png" />
+    <source media="(max-width: 600px)" srcset="assets/hero/ai-qa-dev-flow-mobile.gif" />
+    <img src="assets/hero/ai-qa-dev-flow.gif" width="100%" alt="Kowshikan Mathivarnan — conceptual animation of an AI-powered QA and software development workflow showing code, automated testing, bug detection, CI/CD and web/mobile validation." />
   </picture>
 </p>
+
+### Building intelligent software systems where AI, automation, testing, and product engineering meet.
+
+`AI Engineering` · `QA Automation` · `Playwright` · `Software Testing` · `React` · `Android` · `Node.js` · `TypeScript`
+
+[View still image](assets/hero/ai-qa-dev-flow.png)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kowshikan-mathivarnan-b3a1ab314"><img src="assets/contact-linkedin.svg" height="38" alt="Connect on LinkedIn" /></a>
@@ -14,8 +20,6 @@
   &nbsp;
   <a href="#selected-work"><img src="assets/contact-work.svg" height="38" alt="Explore selected work" /></a>
 </p>
-
-# Building software for real-world workflows.
 
 I'm **Kowshikan Mathivarnan**, a **Trainee Software Engineer at 10QBIT** and Computer Science undergraduate at the **University of Bedfordshire**. My projects span AI agents, Android applications and full-stack web development, with a growing focus on automated software quality.
 

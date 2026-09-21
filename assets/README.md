@@ -1,5 +1,9 @@
 # Graphic sources
 
+The active AI / QA hero is maintained in `hero/source/` and exported to GIF/PNG.
+See `hero/README.md` for rebuilding it. The commands below maintain the retained
+SVG alternatives and the other profile illustrations.
+
 Regenerate the illustrated hero and project covers with:
 
 ```sh
