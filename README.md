@@ -106,15 +106,15 @@ A small visual signature, powered by my actual GitHub contribution history.
 ## GitHub at a glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kowshi1119&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12&bg_color=0b1220&title_color=83f4d2&icon_color=e5c78d&text_color=a7b8cb&border_color=263c4e" width="49%" alt="GitHub stats for kowshi1119: stars, commits, pull requests, issues and contributions." />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowshi1119&layout=compact&langs_count=8&border_radius=12&bg_color=0b1220&title_color=83f4d2&text_color=a7b8cb&border_color=263c4e" width="49%" alt="Most used languages across kowshi1119's public repositories." />
+  <img src="https://raw.githubusercontent.com/kowshi1119/kowshi1119/output/github-stats.svg" width="49%" alt="GitHub stats for kowshi1119: stars, commits, pull requests, issues and contributions." />
+  <img src="https://raw.githubusercontent.com/kowshi1119/kowshi1119/output/github-languages.svg" width="49%" alt="Most used languages across kowshi1119's public repositories." />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kowshi1119&background=0B1220&border=263C4E&stroke=263C4E&ring=4CCBAA&fire=E5C78D&currStreakNum=83F4D2&sideNums=EAF4F1&currStreakLabel=83F4D2&sideLabels=A7B8CB&dates=A7B8CB&border_radius=12" width="99%" alt="GitHub contribution streak: total contributions, current streak and longest streak." />
+  <img src="https://raw.githubusercontent.com/kowshi1119/kowshi1119/output/github-streak.svg" width="99%" alt="GitHub contribution streak: total contributions, current streak and longest streak." />
 </p>
 
-<sub>Live figures from public GitHub activity; they refresh periodically and are not a measure of engineering quality.</sub>
+<sub>Generated daily from public GitHub activity by the <a href="https://github.com/kowshi1119/kowshi1119/actions/workflows/snake.yml">profile workflow</a>; not a measure of engineering quality.</sub>
 
 ## Experience
 
