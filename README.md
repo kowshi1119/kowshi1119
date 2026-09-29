@@ -21,13 +21,17 @@
   <a href="#selected-work"><img src="assets/contact-work.svg" height="38" alt="Explore selected work" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kowshi1119&label=PROFILE%20VIEWS&style=for-the-badge&color=4ccbaa&labelColor=132536&abbreviated=true" height="30" alt="Profile views counter" />
+</p>
+
 I'm **Kowshikan Mathivarnan**, a **Trainee Software Engineer at 10QBIT** and Computer Science undergraduate at the **University of Bedfordshire**. My projects span AI agents, Android applications and full-stack web development, with a growing focus on automated software quality.
 
 Based in **Jaffna, Sri Lanka** · Tamil (native) · English (professional)
 
 **Career interests:** Software engineering, applied AI and Android development. I enjoy turning practical problems into working applications and would welcome a conversation with teams building useful products.
 
-**Explore:** [Selected work](#selected-work) · [Experience](#experience) · [Technical toolkit](#technical-toolkit) · [Contribution studio](#contribution-studio)
+**Explore:** [Selected work](#selected-work) · [Experience](#experience) · [Technical toolkit](#technical-toolkit) · [Contribution studio](#contribution-studio) · [GitHub at a glance](#github-at-a-glance)
 
 ## At a glance
 
@@ -98,6 +102,19 @@ A small visual signature, powered by my actual GitHub contribution history.
 </p>
 
 [View contribution history →](https://github.com/kowshi1119?tab=overview) · [Animation workflow](https://github.com/kowshi1119/kowshi1119/actions/workflows/snake.yml)
+
+## GitHub at a glance
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kowshi1119/kowshi1119/output/github-stats.svg" width="49%" alt="GitHub stats for kowshi1119: stars, commits, pull requests, issues and contributions." />
+  <img src="https://raw.githubusercontent.com/kowshi1119/kowshi1119/output/github-languages.svg" width="49%" alt="Most used languages across kowshi1119's public repositories." />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kowshi1119/kowshi1119/output/github-streak.svg" width="99%" alt="GitHub contribution streak: total contributions, current streak and longest streak." />
+</p>
+
+<sub>Generated daily from public GitHub activity by the <a href="https://github.com/kowshi1119/kowshi1119/actions/workflows/snake.yml">profile workflow</a>; not a measure of engineering quality.</sub>
 
 ## Experience
 
