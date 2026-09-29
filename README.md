@@ -21,13 +21,17 @@
   <a href="#selected-work"><img src="assets/contact-work.svg" height="38" alt="Explore selected work" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kowshi1119&label=PROFILE%20VIEWS&style=for-the-badge&color=4ccbaa&labelColor=132536&abbreviated=true" height="30" alt="Profile views counter" />
+</p>
+
 I'm **Kowshikan Mathivarnan**, a **Trainee Software Engineer at 10QBIT** and Computer Science undergraduate at the **University of Bedfordshire**. My projects span AI agents, Android applications and full-stack web development, with a growing focus on automated software quality.
 
 Based in **Jaffna, Sri Lanka** · Tamil (native) · English (professional)
 
 **Career interests:** Software engineering, applied AI and Android development. I enjoy turning practical problems into working applications and would welcome a conversation with teams building useful products.
 
-**Explore:** [Selected work](#selected-work) · [Experience](#experience) · [Technical toolkit](#technical-toolkit) · [Contribution studio](#contribution-studio)
+**Explore:** [Selected work](#selected-work) · [Experience](#experience) · [Technical toolkit](#technical-toolkit) · [Contribution studio](#contribution-studio) · [GitHub at a glance](#github-at-a-glance)
 
 ## At a glance
 
@@ -98,6 +102,19 @@ A small visual signature, powered by my actual GitHub contribution history.
 </p>
 
 [View contribution history →](https://github.com/kowshi1119?tab=overview) · [Animation workflow](https://github.com/kowshi1119/kowshi1119/actions/workflows/snake.yml)
+
+## GitHub at a glance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kowshi1119&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12&bg_color=0b1220&title_color=83f4d2&icon_color=e5c78d&text_color=a7b8cb&border_color=263c4e" width="49%" alt="GitHub stats for kowshi1119: stars, commits, pull requests, issues and contributions." />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowshi1119&layout=compact&langs_count=8&border_radius=12&bg_color=0b1220&title_color=83f4d2&text_color=a7b8cb&border_color=263c4e" width="49%" alt="Most used languages across kowshi1119's public repositories." />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kowshi1119&background=0B1220&border=263C4E&stroke=263C4E&ring=4CCBAA&fire=E5C78D&currStreakNum=83F4D2&sideNums=EAF4F1&currStreakLabel=83F4D2&sideLabels=A7B8CB&dates=A7B8CB&border_radius=12" width="99%" alt="GitHub contribution streak: total contributions, current streak and longest streak." />
+</p>
+
+<sub>Live figures from public GitHub activity; they refresh periodically and are not a measure of engineering quality.</sub>
 
 ## Experience
 

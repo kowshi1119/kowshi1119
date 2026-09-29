@@ -31,6 +31,19 @@ python3 scripts/style_snake.py path/to/github-snake.svg assets/contribution-snak
 
 The source snapshot used for the initial rendering came from the existing output branch. The action regenerates it from actual activity. The stylesheet disables all snake animation and hides the moving snake/progress bar under reduced motion, retaining the contribution grid.
 
+## Live counters and stats
+
+Apart from the contribution snake, these are the only images rendered at view time:
+
+- **Profile views** — [komarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) (`komarev.com/ghpvc`), `for-the-badge` style.
+- **Stats and top languages** — [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
+- **Streak** — [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) (`streak-stats.demolab.com`).
+
+All three are themed with URL parameters from the profile palette: background
+`#0b1220`, border `#263c4e`, mint `#83f4d2` / `#4ccbaa`, champagne `#e5c78d`,
+text `#eaf4f1` / `#a7b8cb`. Keep these values in sync if the palette changes.
+The view counter increments on each README load, including your own.
+
 ## GitHub rendering limits
 
 Motion lives inside SVG images. README links remain standard accessible GitHub links; there is no page-level JavaScript, hover tilt, WebGL or scroll animation. Avoid adding unsupported inline styles or scripts to README HTML. All project illustrations are explicitly labeled as concepts, not screenshots.
