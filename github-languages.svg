@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="467" height="300" viewBox="0 0 467 300" role="img" aria-labelledby="title desc">
-<title id="title">Most used languages</title><desc id="desc">TypeScript 52.7%, JavaScript 17.9%, Python 15.6%, HTML 7.4%, Java 3.0%, CSS 1.8%, Kotlin 0.9%, PowerShell 0.3%</desc>
+<title id="title">Most used languages</title><desc id="desc">TypeScript 52.3%, JavaScript 18.7%, Python 15.2%, HTML 7.7%, Java 2.9%, CSS 1.5%, Kotlin 0.9%, PowerShell 0.3%</desc>
 <defs>
 <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#112c38"/></linearGradient>
 <linearGradient id="mint" x2="1"><stop stop-color="#83f4d2"/><stop offset="1" stop-color="#258c85"/></linearGradient>
@@ -11,33 +11,33 @@
 <text x="28" y="42" font-size="19" fill="#83f4d2" font-weight="700" text-anchor="start">Most used languages</text>
 <rect x="28" y="72" width="411" height="10" rx="5" fill="#132536"/>
 <g clip-path="url(#bar)">
-<rect x="28.00" y="72" width="216.64" height="10" fill="#3178c6"/>
-<rect x="244.64" y="72" width="73.58" height="10" fill="#f1e05a"/>
-<rect x="318.23" y="72" width="64.18" height="10" fill="#3572A5"/>
-<rect x="382.41" y="72" width="30.32" height="10" fill="#e34c26"/>
-<rect x="412.73" y="72" width="12.36" height="10" fill="#b07219"/>
-<rect x="425.08" y="72" width="7.25" height="10" fill="#663399"/>
-<rect x="432.33" y="72" width="3.90" height="10" fill="#A97BFF"/>
-<rect x="436.24" y="72" width="1.20" height="10" fill="#012456"/>
+<rect x="28.00" y="72" width="215.06" height="10" fill="#3178c6"/>
+<rect x="243.06" y="72" width="76.74" height="10" fill="#f1e05a"/>
+<rect x="319.80" y="72" width="62.60" height="10" fill="#3572A5"/>
+<rect x="382.41" y="72" width="31.68" height="10" fill="#e34c26"/>
+<rect x="414.09" y="72" width="12.05" height="10" fill="#b07219"/>
+<rect x="426.14" y="72" width="6.35" height="10" fill="#663399"/>
+<rect x="432.50" y="72" width="3.81" height="10" fill="#A97BFF"/>
+<rect x="436.30" y="72" width="1.17" height="10" fill="#012456"/>
 </g>
 <circle cx="34" cy="113" r="6" fill="#3178c6"/>
 <text x="48" y="118" font-size="14" fill="#eaf4f1" font-weight="600" text-anchor="start">TypeScript</text>
-<text x="224" y="118" font-size="13" fill="#a7b8cb" font-weight="400" text-anchor="end">52.7%</text>
+<text x="224" y="118" font-size="13" fill="#a7b8cb" font-weight="400" text-anchor="end">52.3%</text>
 <circle cx="246" cy="113" r="6" fill="#f1e05a"/>
 <text x="260" y="118" font-size="14" fill="#eaf4f1" font-weight="600" text-anchor="start">JavaScript</text>
-<text x="436" y="118" font-size="13" fill="#a7b8cb" font-weight="400" text-anchor="end">17.9%</text>
+<text x="436" y="118" font-size="13" fill="#a7b8cb" font-weight="400" text-anchor="end">18.7%</text>
 <circle cx="34" cy="155" r="6" fill="#3572A5"/>
 <text x="48" y="160" font-size="14" fill="#eaf4f1" font-weight="600" text-anchor="start">Python</text>
-<text x="224" y="160" font-size="13" fill="#a7b8cb" font-weight="400" text-anchor="end">15.6%</text>
+<text x="224" y="160" font-size="13" fill="#a7b8cb" font-weight="400" text-anchor="end">15.2%</text>
 <circle cx="246" cy="155" r="6" fill="#e34c26"/>
 <text x="260" y="160" font-size="14" fill="#eaf4f1" font-weight="600" text-anchor="start">HTML</text>
-<text x="436" y="160" font-size="13" fill="#a7b8cb" font-weight="400" text-anchor="end">7.4%</text>
+<text x="436" y="160" font-size="13" fill="#a7b8cb" font-weight="400" text-anchor="end">7.7%</text>
 <circle cx="34" cy="197" r="6" fill="#b07219"/>
 <text x="48" y="202" font-size="14" fill="#eaf4f1" font-weight="600" text-anchor="start">Java</text>
-<text x="224" y="202" font-size="13" fill="#a7b8cb" font-weight="400" text-anchor="end">3.0%</text>
+<text x="224" y="202" font-size="13" fill="#a7b8cb" font-weight="400" text-anchor="end">2.9%</text>
 <circle cx="246" cy="197" r="6" fill="#663399"/>
 <text x="260" y="202" font-size="14" fill="#eaf4f1" font-weight="600" text-anchor="start">CSS</text>
-<text x="436" y="202" font-size="13" fill="#a7b8cb" font-weight="400" text-anchor="end">1.8%</text>
+<text x="436" y="202" font-size="13" fill="#a7b8cb" font-weight="400" text-anchor="end">1.5%</text>
 <circle cx="34" cy="239" r="6" fill="#A97BFF"/>
 <text x="48" y="244" font-size="14" fill="#eaf4f1" font-weight="600" text-anchor="start">Kotlin</text>
 <text x="224" y="244" font-size="13" fill="#a7b8cb" font-weight="400" text-anchor="end">0.9%</text>
